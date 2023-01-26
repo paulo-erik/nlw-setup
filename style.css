@@ -57,6 +57,14 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
+}
+
+.habit p {
+  font-family: "Roboto Mono";
+  font-size: 20px;
+  color: #a1a1aa;
+  text-align: center;
 }
 
 .days {
